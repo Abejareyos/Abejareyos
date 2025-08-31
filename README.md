@@ -7,7 +7,7 @@ Perfil creado con el proposito de pasar las materias de mi carrera de Ingenieria
 
 Mi videojuego favorito es GTA 4.
 
-Me gustan las peliculas de accion, terror y aventura aunque abeces tambien romanticas.
+Me gustan las peliculas de accion, terror y aventura aunque aveces tambien romanticas.
 
 * Rocky
 * La cosa del otro mundo
