@@ -1,4 +1,5 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3ZzdnJ6ZHA5YnB3bjBvbG9oZnZjZzJvMXB6OTVkMDRlNzRnMGphcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/p6lfY6RRrs5G7uSOhZ/giphy.gif" width="50"/> THE LOST 
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VyM3F3anNnZm1rNTJ5ZmpmeGV4NXJzdGtnaXZsbzF2ZGxweDJwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eUycf7JYF20Qf5c2FJ/giphy.gif" width="50"/> THE LOST 
+
 
 
 Perfil creado con el proposito de pasar las materias de mi carrera de Ingenieria en computacion, con la esperanza de que no me hagan borrar mi perfil.
