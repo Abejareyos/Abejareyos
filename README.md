@@ -24,8 +24,7 @@ Me gustan las peliculas de accion, terror y aventura aunque aveces tambien roman
 Mi helado favorito es el de chicle.
 
 Amo el boxeo. 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd283dnUwcmt4M2s1dnpvZnFvd3E1bDlzbGhldWNwczR3cmx3aXBzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8w63rcBDTZopcABZO1/giphy.gif
-" width="200"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd283dnUwcmt4M2s1dnpvZnFvd3E1bDlzbGhldWNwczR3cmx3aXBzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8w63rcBDTZopcABZO1/giphy.gif" width="150"/>
 
 Lenguajes y softwares que manejo, no al 100% pero no es 0
 
