@@ -10,6 +10,8 @@ Mi videojuego favorito es GTA 4.
 
 Cuphead, Hollow knight, Punch out y Dispatch. Tambien me gustan mucho.
 
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czBtczI5bjlhYzJ2d2V4bGVwdWo5MGloc2t0OWcxMWt3dXhtbG52dSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/qgvNthVuxfzBM85S2E/giphy.gif" width="200"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czBtczI5bjlhYzJ2d2V4bGVwdWo5MGloc2t0OWcxMWt3dXhtbG52dSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/DKfzsysOGGjYbI9mKy/giphy.gif" width="200"/>
 
 
 Me gustan las peliculas de accion, terror y aventura aunque aveces tambien romanticas.
