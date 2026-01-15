@@ -4,7 +4,7 @@
 
 Perfil creado con el proposito de pasar las materias de mi carrera de Ingenieria en computacion, con la esperanza de que no me hagan borrar mi perfil.
  
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlhYnh4MjR0ejBtZW5yajhzeGl3Ym55bGMwcWptZXh1MW9vZG1jYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/PECvcyeYqfCOJkr4W6/giphy.gif" width="200"/>
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd283dnUwcmt4M2s1dnpvZnFvd3E1bDlzbGhldWNwczR3cmx3aXBzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8w63rcBDTZopcABZO1/giphy.gif" width="200"/>
 
 Mi videojuego favorito es GTA 4.
 
